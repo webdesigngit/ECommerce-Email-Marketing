@@ -121,20 +121,20 @@ img {
     row-gap: 8px;
     height: 830px;
     transition: 0.4s box-shadow, 0.4s transform;
-    box-shadow: inset 2px 2px 32px rgba(96, 96, 96, 0.3), 2px 2px 0px rgba(96, 96, 96, 0.2);
+    box-shadow: inset 2px 2px 32px rgba(203, 197, 251, 1), 2px 2px 0px rgba(203, 197, 251, 1);
 }
 
-.flex-01:hover {
-    box-shadow: inset 2px 2px 32px rgba(0, 0, 0, 0.3), 2px 2px 0px rgba(0, 0, 0, 0.3);
+.flex02child:hover, .flex-01:hover {
+    
     transform: scale(1.05);
     cursor: pointer;
 }
 
-.flex02child:hover {
+/* .flex02child:hover {
     box-shadow: inset 2px 2px 32px rgba(0, 0, 0, 0.3), 2px 2px 0px rgba(0, 0, 0, 0.3);
     transform: scale(1.05);
     cursor: pointer;
-}
+} */
 
 .flex02child2:hover {
     /* box-shadow: inset 2px 2px 32px rgba(0, 0, 0, 0.7), 2px 2px 0px rgba(0, 0, 0, 0.7); */
@@ -295,7 +295,7 @@ img {
     border-radius: 14px;
     padding: 45px 45px  5px;
     display: flex;
-    box-shadow: inset 2px 2px 32px rgba(96, 96, 96, 0.3), 2px 2px 0px rgba(96, 96, 96, 0.2);
+    box-shadow: inset 2px 2px 32px rgba(250, 210, 196, 1), 2px 2px 0px rgba(250, 210, 196, 1);
 }
 
 .flex02child2{
@@ -303,7 +303,7 @@ img {
     border-radius: 14px;
     padding: 45px 45px  5px;
     display: flex;
-    box-shadow: inset 2px 2px 32px rgba(96, 96, 96, 0.3), 2px 2px 0px rgba(96, 96, 96, 0.2);
+    box-shadow: inset 2px 2px 32px rgba(195, 221, 255, 1), 2px 2px 0px rgba(195, 221, 255, 1);
 }
 
 
