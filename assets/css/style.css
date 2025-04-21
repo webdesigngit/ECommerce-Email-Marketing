@@ -430,7 +430,7 @@ img {
 .col-2-3{
     width: 220px;
     cursor: pointer;
-    background-image: url(/assets/images/brand-image-2.png);
+    background-image: url("/assets/images/brand-image-2.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
