@@ -463,7 +463,7 @@ img {
     max-width: 220px;
     background: brown;
     cursor: pointer;
-    background-image: url(/assets/images/brand-image-2.png);
+    background-image: url('https://cdn.shopify.com/s/files/1/0724/2163/8401/files/brand-image-2.png?v=1745242744');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
